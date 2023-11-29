@@ -1,0 +1,3 @@
+# apt-key adv --keyserver keyserver.ubuntu.com --recv 7EA0A9C3F273FCD8
+
+deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable

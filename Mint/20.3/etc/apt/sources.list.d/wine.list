@@ -1,0 +1,5 @@
+# Wine official
+# wget https://dl.winehq.org/wine-builds/Release.key | sudo apt-key add Release.key
+# apt-key adv --keyserver keyserver.ubuntu.com --recv 76F1A20FF987672F
+
+deb https://dl.winehq.org/wine-builds/ubuntu/ focal main

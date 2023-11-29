@@ -1,0 +1,7 @@
+# In Mesa 20.0, a new OpenGL driver, Iris, is promoted to be the default for Gen8+. 
+# Certain applications run faster with it.
+# You may disable it and revert to use the old i965 driver by setting the MESA_LOADER_DRIVER_OVERRIDE=i965 environment variable before starting any OpenGL 
+# application. 
+# This setting does not affect Vulkan applications. 
+# source: https://wiki.archlinux.org/title/intel_graphics#Old_OpenGL_driver_(i965)
+export MESA_LOADER_DRIVER_OVERRIDE=i965

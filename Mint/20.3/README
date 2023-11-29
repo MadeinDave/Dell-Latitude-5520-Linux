@@ -1,0 +1,7 @@
+# Linux Mint 20.3
+
+Linux Mint 20.3 "Una", is based on `Ubuntu 20.04 LTS` and **Dell Latitude 5520** is **Laptop system certified with Ubuntu** with [Ubuntu 20.04 LTS 64 Bit](https://ubuntu.com/certified/202010-28314)
+
+### /etc/X11
+
+Those configurations provides an efficient fix to some small screen artifacts, and some 3D rendering issues over MESA.

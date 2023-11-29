@@ -1,0 +1,5 @@
+# Trinity Desktop
+# apt-key adv --keyserver keyserver.ubuntu.com --recv 61FF9694161CE595
+
+deb [arch=amd64] http://mirror.ppa.trinitydesktop.org/trinity/deb/trinity-r14.0.x               focal main
+deb [arch=amd64] http://mirror.ppa.trinitydesktop.org/trinity/deb/trinity-builddeps-r14.0.x     focal main

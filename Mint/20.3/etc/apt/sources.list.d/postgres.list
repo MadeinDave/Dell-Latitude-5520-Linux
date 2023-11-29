@@ -1,0 +1,5 @@
+# Postgresql
+# wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | apt-key add -
+# apt-key adv --keyserver keyserver.ubuntu.com --recv 7FCC7D46ACCC4CF8
+
+deb [arch=amd64] http://apt.postgresql.org/pub/repos/apt/ focal-pgdg main

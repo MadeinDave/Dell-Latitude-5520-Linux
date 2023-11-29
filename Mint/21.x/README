@@ -4,7 +4,7 @@ Linux Mint 21.x series.
 
 ### Changes from previous version (20.x)
 
-The file `/etc/X11/Xsession.d/20mesa` is deleted from the previous release, since it was introduced to fix an old bug in from [Ubuntu 20.04](https://bugs.launchpad.net/ubuntu/+source/mesa/+bug/1876219) that no longer exists in `Ubuntu 22.04`
+The file `/etc/X11/Xsession.d/20mesa` now use the `iris` driver, since the previous `i965` driver was introduced to fix an old bug from [Ubuntu 20.04](https://bugs.launchpad.net/ubuntu/+source/mesa/+bug/1876219) that no longer exists in `Ubuntu 22.04`.  
 
 ## 21.2 "Victoria"
 

@@ -1,0 +1,4 @@
+deb http://mirror.ppa.trinitydesktop.org/trinity/deb/trinity-r14.1.x jammy main deps
+
+# Optional sources
+deb-src http://mirror.ppa.trinitydesktop.org/trinity/deb/trinity-r14.1.x jammy main deps

@@ -4,4 +4,5 @@ Linux Mint 20.3 "Una", is based on `Ubuntu 20.04 LTS` and **Dell Latitude 5520**
 
 ### /etc/X11
 
-Those configurations provides an efficient fix to some small screen artifacts, and some 3D rendering issues over MESA.
+Those configurations provides an efficient setup for optimal screen setup.  
+They also fix to some small screen artifacts, and some 3D rendering issues over MESA.

@@ -1,0 +1,4 @@
+# wget -O /etc/apt/keyrings/winehq.key https://dl.winehq.org/wine-builds/winehq.key
+
+deb [signed-by=/etc/apt/keyrings/winehq.key] https://dl.winehq.org/wine-builds/ubuntu/ jammy main
+

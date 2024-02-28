@@ -13,3 +13,8 @@ Linux Mint 21.2 "Victoria" is based on `Ubuntu 22.04 Jammy`
 ### /etc/X11
 
 Those configurations provides an efficient setup for optimal screen setup.  
+
+### /etc/apt/preferences.d/libgd3.pref
+
+The package `libgd3` package is pinned to version `2.3.0-2ubuntu2`, to avoid the use of the one provided by `ppa.launchpadcontent.net/ondrej/php` and make 
+`wine-i386` installable without conflicts.

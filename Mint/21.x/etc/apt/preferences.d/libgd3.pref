@@ -1,0 +1,10 @@
+# Use specific distro package instead of ondrej-php-jammy
+# to enable wine-i386 to be installed
+
+Package: libgd3
+Pin: version 2.3.0-2ubuntu2
+Pin-Priority: 999
+
+Package: libgd3:i386
+Pin: version 2.3.0-2ubuntu2
+Pin-Priority: 999
